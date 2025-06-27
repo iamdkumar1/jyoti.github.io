@@ -1,2 +1,2 @@
 # jyoti.github.io
-This is a Jyoti portfolio
+This is a Jyoti LIVE portfolio
